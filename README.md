@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Alejandro Emiliano Toledo
-
+  aka Max Mars
+  
 🎓 **Software Engineer (graduating)**  
 💻 **Full Stack Developer – MERN Stack**  
 🛡️ **Cybersecurity Enthusiast & Python Developer**
@@ -73,7 +74,7 @@ Currently expanding my skills in:
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: *(add link here)*
+- 💼 LinkedIn: [*(Max Mars on LinkedIn)*](https://www.linkedin.com/in/alejandro-emiliano-toledo-3949422a1/)
 - 🧑‍💻 GitHub: You're already here 😉
 
 ---
