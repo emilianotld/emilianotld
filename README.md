@@ -5,8 +5,6 @@
 💻 **Full Stack Developer – MERN Stack**  
 🛡️ **Cybersecurity Enthusiast & Python Developer**
 
----
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A2EA2A&width=435&lines=Building+secure+systems+in+an+insecure+world;Security+is+not+a+feature.+It%E2%80%99s+a+mindset;Security+by+design%2C+not+by+accident)](https://git.io/typing-svg)
 
 ---
