@@ -6,6 +6,9 @@
 🛡️ **Cybersecurity Enthusiast & Python Developer**
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A2EA2A&width=435&lines=Building+secure+systems+in+an+insecure+world;Security+is+not+a+feature.+It%E2%80%99s+a+mindset;Security+by+design%2C+not+by+accident)](https://git.io/typing-svg)
+
+---
 
 # 💫 About Me:
 I am a soon-to-graduate Software Engineer with a strong focus on full stack web development and cybersecurity.<br>I build scalable web applications using the MERN stack and develop security-oriented tools and scripts in Python.<br><br>I am continuously training in multiple areas of cybersecurity, with a strong interest in offensive and defensive security, automation, and secure software design.
