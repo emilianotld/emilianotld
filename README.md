@@ -65,7 +65,9 @@ Building secure systems in an insecure world
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🐍 Contribution Snake
 
+![snake gif](https://github.com/emilianotld/emilianotld/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
