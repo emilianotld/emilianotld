@@ -7,76 +7,32 @@
 
 ---
 
-## 🚀 About Me
+# 💫 About Me:
+I am a soon-to-graduate Software Engineer with a strong focus on full stack web development and cybersecurity.<br>I build scalable web applications using the MERN stack and develop security-oriented tools and scripts in Python.<br><br>I am continuously training in multiple areas of cybersecurity, with a strong interest in offensive and defensive security, automation, and secure software design.
 
-I am a soon-to-graduate **Software Engineer** with a strong focus on **full stack web development** and **cybersecurity**.  
-I build scalable web applications using the **MERN stack** and develop **security-oriented tools and scripts in Python**.
 
-I am continuously training in multiple areas of cybersecurity, with a strong interest in **offensive and defensive security**, automation, and secure software design.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilianotld) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/PassSignificant8719) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emilianotld) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=emilianotld&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=emilianotld&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emilianotld&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🧰 Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=emilianotld&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🌐 Full Stack Development
-- **MongoDB**
-- **Express.js**
-- **React**
-- **Node.js**
-- REST APIs
-- JWT Authentication
-- Tailwind CSS
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🐍 Cybersecurity & Automation
-- **Python** (security tools, scanners, automation)
-- Linux (Kali Linux)
-- CLI tools development
-- Vulnerability analysis
-- Secure coding practices
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=emilianotld&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=emilianotld&icon=6&color=1)](https://visitcount.itsvg.in)
 
-## 🔐 Cybersecurity Focus
-
-I develop and study projects related to:
-- Security exposure analysis
-- Risk assessment tooling
-- Ethical hacking fundamentals
-- Secure software architecture
-- Automation for security workflows
-
-Currently expanding my skills in:
-- Ethical Hacking
-- Blue Team / Defensive Security
-- DevSecOps concepts
-- Blockchain & security fundamentals
-
----
-
-## 📌 What You’ll Find Here
-
-- 🧠 MERN stack projects
-- 🛠️ Python-based cybersecurity tools
-- 📚 Notes and learning resources
-- 🧪 Experimental security projects
-- 🚧 Work-in-progress ideas and MVPs
-
----
-
-## 📈 Goals
-
-- Build production-ready full stack applications
-- Create real-world cybersecurity tools
-- Grow as a **Security-oriented Software Engineer**
-- Contribute to open-source projects
-
----
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: [*(Max Mars on LinkedIn)*](https://www.linkedin.com/in/alejandro-emiliano-toledo-3949422a1/)
-- 🧑‍💻 GitHub: You're already here 😉
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 > *"Security is not a feature. It’s a mindset."* 🔐
