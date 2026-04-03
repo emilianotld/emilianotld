@@ -45,10 +45,12 @@ Building secure systems in an insecure world
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux)
 
-# 📊 GitHub Stats:
+<!--
+ # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=emilianotld&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=emilianotld&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emilianotld&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
 
 ## 🔐 Security Projects
 
@@ -58,10 +60,10 @@ Building secure systems in an insecure world
 > language: Python
 > repo: https://github.com/emilianotld/redink
 ```
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=emilianotld&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+-->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
