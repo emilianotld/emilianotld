@@ -19,10 +19,9 @@ export const HeroSection = () => {
             </span>
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I develope web-based systems and applications with React and modern
-            Technologies. Specializing in front-end development, I create
-            funtional and user-friendly interfaces focused on seamless
-            experiences.
+            I develop web-based systems and applications with React and modern technologies. 
+            Specializing in application security, I design and implement secure architectures, 
+            protect against common vulnerabilities, and ensure robust, reliable systems focused on safe and seamless user experiences.
           </p>
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
             <a href="#projects" className="cosmic-button ">
