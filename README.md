@@ -34,7 +34,7 @@ Building secure systems in an insecure world
 ```
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilianotld) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/PassSignificant8719) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emilianotld) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilianotld) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/PassSignificant8719/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emilianotld) 
 
 # 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
