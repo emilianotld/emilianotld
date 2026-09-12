@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Emiliano Toledo
-  alias **Max Mars**
   
 🎓 **Software Engineer (graduating)**  
 💻 **Full Stack Developer – MERN Stack**  
